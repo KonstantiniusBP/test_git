@@ -9,3 +9,7 @@ array = [5, 2, 3, 0]
 
 for i in range(5):
     print(i+1)
+
+
+for i in range(5):
+    print('Hello')
