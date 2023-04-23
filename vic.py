@@ -20,3 +20,4 @@ for i in array:
     i+i
     print(i)
 
+print('New commit')
