@@ -13,3 +13,10 @@ for i in range(5):
 
 for i in range(5):
     print('Hello')
+
+
+
+for i in array:
+    i+i
+    print(i)
+
